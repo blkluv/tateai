@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/vdutts7/constitutionGPT/blob/main/public/favicon.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/social.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/youtube.png" alt="Logo" width="67" height="67">
     <img src="https://github.com/vdutts7/yt-chat-mkbhd/blob/main/public/openai.png" alt="Logo" width="67" height="67">
-
   
   </a>
   <h2 align="center">Top G AI Search </h2> <p align="center"> AI-Powered semantic search over hours of podcasts and interviews on YouTube from Andrew Tate 🚬💸💬  
