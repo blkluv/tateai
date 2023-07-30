@@ -56,7 +56,8 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 ## 🔧 Tools used
 [![Next][Next]][Next-url]
 [![OpenAI][OpenAI]][OpenAI-url]
-[![Supabase][Supabase]][Supabase-url]
+[![Milvus][Milvus]][Milvus-url]
+[![YouTubeV3API][YouTubeV3API]][YouTubeV3API-url]
 [![Tailwind CSS][TailwindCSS]][TailwindCSS-url]
 [![Vercel][Vercel]][Vercel-url]
 
