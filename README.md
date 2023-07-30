@@ -91,7 +91,7 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 [OpenAI]: https://img.shields.io/badge/OpenAI%20ada--002%20GPT-0058A0?style=for-the-badge&logo=openai&logoColor=white&color=4aa481
 [OpenAI-url]: https://openai.com/
 
-[Milvus]: https://img.shields.io/badge/Milvus-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/milvus.png&color=0A192F
+[Milvus]: https://img.shields.io/badge/Milvus-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/milvus.png&color=00d5ff
 [Milvus-url]: https://milvus.io/
 
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
