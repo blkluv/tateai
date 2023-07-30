@@ -83,7 +83,7 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 [Next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 
-[YouTubeV3API]: https://img.shields.io/badge/YouTube_V3_API-DD0031?style=for-the-badge&logo=tailwind-css&color=0A192F
+[YouTubeV3API]: https://img.shields.io/badge/YouTube_V3_API-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/youtube.png&color=ffffff
 [YouTubeV3API-url]: https://developers.google.com/youtube/v3
 
 [TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=skyblue&color=0A192F
@@ -92,7 +92,7 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 [OpenAI]: https://img.shields.io/badge/OpenAI%20ada--002%20GPT-0058A0?style=for-the-badge&logo=openai&logoColor=white&color=4aa481
 [OpenAI-url]: https://openai.com/
 
-[Milvus]: https://img.shields.io/badge/Milvus-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/public/milvus.png&color=0A192F
+[Milvus]: https://img.shields.io/badge/Milvus-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/milvus.png&color=0A192F
 [Milvus-url]: https://milvus.io/
 
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
