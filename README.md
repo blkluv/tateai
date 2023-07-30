@@ -24,8 +24,7 @@
         </ul>
     <a href="#contact">👤 Contact</a>
   </ol>
-
-<br ></br>
+<br />
 
 <!-- ABOUT -->
 ## 📝 About
