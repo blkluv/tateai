@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/social.jpg" alt="Logo" width="80" height="80">
-    <img src="https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/youtube.png" alt="Logo" width="100" height="67">
-    <img src="https://github.com/vdutts7/yt-chat-mkbhd/blob/main/public/openai.png" alt="Logo" width="67" height="67">
+    <img src="https://github.com/vdutts7/dump/blob/main/tate-talks-1-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/vdutts7/dump/blob/main/youtube-logo.png" alt="Logo" width="100" height="67">
+    <img src="ttps://github.com/vdutts7/dump/blob/main/openai-logo.png" alt="Logo" width="67" height="67">
   
   </a>
-  <h2 align="center">Top G AI Search </h2> <p align="center"> AI-Powered semantic search over hours of podcasts and interviews on YouTube from Andrew Tate 🚬💸💬  
-<br /> <a href=https://tate-talks.vercel.app/>LINK</a>  </p> </div> <p align="center"> <img src="https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/aitopg.gif"/> </p>  
+  <h2 align="center">Tate Talks: Top G AI Search </h2> <p align="center"> AI-Powered semantic search over hours of podcasts and interviews on YouTube from Andrew Tate 🚬💸💬  
+<br /> <a href=https://tate-talks.vercel.app/>LINK</a>  </p> </div> <p align="center"> <img src="https://github.com/vdutts7/dump/blob/main/tate-talks-2.gif"/> </p>  
 
 
 <!-- TABLE OF CONTENTS -->
