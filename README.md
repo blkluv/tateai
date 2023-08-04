@@ -74,11 +74,13 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 
 <br/>
 
+
 ## 🔧Tools Used
-[![Next][next]][next-url]
+[![python][python]][python-url]
+[![YouTubeV3API][youtubev3api]][youtubev3api-url]
 [![OpenAI][openai]][openai-url]
 [![Milvus][milvus]][milvus-url]
-[![YouTubeV3API][youtubev3api]][youtubev3api-url]
+[![Next][next]][next-url]
 [![Tailwind CSS][tailwindcss]][tailwindcss-url]
 [![Vercel][vercel]][vercel-url]
 
@@ -93,10 +95,11 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-
+[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org/
 [next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
-[youtubev3api]: https://img.shields.io/badge/YouTube_V3_API-DD0031?style=for-the-badge&logo=https://github.com/vdutts7/ai-topg-searchbot/blob/main/public/youtube.png&color=ffffff
+[youtubev3api]: https://img.shields.io/badge/YouTube_API_v3-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [youtubev3api-url]: https://developers.google.com/youtube/v3
 [tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=skyblue&color=0A192F
 [tailwindcss-url]: https://tailwindcss.com/
@@ -116,4 +119,4 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 [email]: https://img.shields.io/badge/me@vdutts7.com-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
 [email-url]: #
 [twitter]: https://img.shields.io/badge/Twitter-FFCA28?style=for-the-badge&logo=Twitter&logoColor=00bbff&color=black
-[twitter-url]: https://twitter.com/vdutts7/    
+[twitter-url]: https://twitter.com/vdutts7/
