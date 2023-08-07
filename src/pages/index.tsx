@@ -52,10 +52,10 @@ export default function HomePage() {
         <div className={styles.homePage}>
           <div className={styles.body}>
             <p className={styles.title}>
-              Tate AI
+              Perspicacious AI
             </p>
             <p className={styles.titlecap}>
-              Search Podcasts / Interviews
+              Search Podcasts / Interviews from the Top G <a href="https://twitter.com/cobratate">@cobratate</a>
             </p>
             <SearchOptions />
             <SearchResults />
