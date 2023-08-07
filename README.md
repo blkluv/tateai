@@ -4,7 +4,7 @@
     <img src="https://github.com/vdutts7/dump/blob/main/youtube-logo.png" alt="Logo" width="100" height="67">
     <img src="https://github.com/vdutts7/dump/blob/main/openai-logo.png" alt="Logo" width="67" height="67">
     <h1 align="center">
-        Tate Talks: Top G AI Search
+        Perspicacious.ai (Tate Talks) - Top G AI Search
     </h1>
     <p align="center"> 
         <i><b>AI-Powered semantic search over hours of YouTube podcasts and interviews from Andrew Tate 🚬💸💬</b></i>
@@ -113,9 +113,9 @@ Feel free to send me feedback on [Twitter](https://twitter.com/vdutts7).
 [vercel-url]: https://Vercel.com/
 
 [website]: https://img.shields.io/badge/🔗Website-7f18ff?style=for-the-badge
-[website-url]: https://tate-talks.vercel.app/
+[website-url]: https://perspicacious.ai/
 [github]: https://img.shields.io/badge/💻Github-000000?style=for-the-badge
-[github-url]: https://github.com/vdutts7/tate-talks/
+[github-url]: https://github.com/vdutts7/perspicacious.ai/
 [email]: https://img.shields.io/badge/me@vdutts7.com-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
 [email-url]: #
 [twitter]: https://img.shields.io/badge/Twitter-FFCA28?style=for-the-badge&logo=Twitter&logoColor=00bbff&color=black
